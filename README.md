@@ -42,6 +42,7 @@ src/
  │    ├── segmentCardData.js        # Card data (array of objects)
  │
  ├── App.jsx
+ ├── App.css                       # Global or component-level styles
  ├── index.css
  ├── main.jsx
 ```
