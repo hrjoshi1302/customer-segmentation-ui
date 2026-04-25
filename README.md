@@ -1,10 +1,10 @@
-# 🚀 Customer Segmentation UI (React)
+# Customer Segmentation UI (React)
 
 A modern and visually engaging **Customer Segmentation UI** built using React and Tailwind CSS. This project demonstrates clean UI design, reusable components, and dynamic rendering of customer segments using structured data.
 
 ---
 
-## ✨ Features
+## Features
 
 * Dynamic card rendering using **map()**
 * Data-driven UI using structured **JavaScript objects**
@@ -15,7 +15,7 @@ A modern and visually engaging **Customer Segmentation UI** built using React an
 
 ---
 
-## 🧠 Concepts Used
+## Concepts Used
 
 * React Components
 * Props (data passing)
@@ -26,7 +26,7 @@ A modern and visually engaging **Customer Segmentation UI** built using React an
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```bash
 src/
@@ -48,13 +48,13 @@ src/
 
 ---
 
-## 📸 Preview
+## Preview
 
 ![Project Screenshot](./customer-segmentation-ui.png)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * React (Vite)
 * JavaScript (ES6)
@@ -63,7 +63,7 @@ src/
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 * Customer segment data is stored in a structured array (`SegmentCardData`)
 * Cards are rendered dynamically using `map()`
@@ -76,7 +76,7 @@ src/
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ```bash
 git clone https://github.com/hrjoshi1302/customer-segmentation-ui.git
