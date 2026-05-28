@@ -4,6 +4,11 @@ A modern and visually engaging **Customer Segmentation UI** built using React an
 
 ---
 
+## 🚀 Live Demo
+
+https://customer-segmentation-ui-pi.vercel.app/
+
+
 ## Features
 
 * Dynamic card rendering using **map()**
